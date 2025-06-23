@@ -6,7 +6,7 @@ from mcstatus import JavaServer
 ENDERECO_SERVIDOR = "147.185.221.27"  # Coloque o IP ou domínio aqui
 PORTA = 25901  # Porta do servidor Minecraft
 INTERVALO = 10  # Tempo entre verificações (em segundos)
-WEBHOOK_URL = "https://canary.discord.com/api/webhooks/1386754525930721390/HaJv_0yeTe7iOGbWUkitKi_sUAtpoNJFGK7rQK3bdErlUlmQp7hHlmbfwtRe93fQbJPV"  # Substitua pelo seu webhook
+WEBHOOK_URL = "https://canary.discord.com/api/webhooks/1386792354660225094/reeXsBe8D7Pi-3-z539-ancXP2bWFBiCrSaHZFHQbLjU6YSQrOnb5tuAdccQM1ItuYT_"  # Substitua pelo seu webhook
 
 # === VARIÁVEL DE CONTROLE ===
 ultimo_status_online = None  # Começa sem saber o status
