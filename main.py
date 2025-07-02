@@ -6,7 +6,7 @@ from mcstatus import JavaServer
 ENDERECO_SERVIDOR = "147.185.221.27"  # Coloque o IP ou domínio aqui
 PORTA = 25901  # Porta do servidor Minecraft
 INTERVALO = 10  # Tempo entre verificações (em segundos)
-WEBHOOK_URL = "https://l.webhook.party/hook/yo4i7fwUFNxJjL6SfxNdGSjsWtA4gbxGL%2BVZq524Ujukq6MQwgb%2Fr1g0pm95r9CI%2FyTYR4ZlbjKZ1k0qQ9u5I5R4kboPaPBsAgEsM5V8E5CNLfC3YVEDBtuSfuYJP1ioUTWh8N2rEdxcux%2FMoAXUIET4E7jrVgHLMnzXGgdI7FZV0mJqvfo3qQhqBTV6KPBR%2BufSTB1jyIM8ovFnOjMv3z0X%2BcEdNkRRz7y%2FNZR%2FYQCuez7LA4vb1cllkEbXQmybnJUhq50EOU%2FD8c5PUkt%2FEIlzwDquhJoEL%2FZybg7G2i8dsgPw0UeKyRA8gYiPbmgU68mCHb2i9dWTa%2BYygXH4n08AcUv9KcY1rHpYBtDsdlqCeWMDH64KwWiC2UzzOVV%2B9VbsrBTPIxk%3D/FQjVxYbn%2BxATuqT1"  # Substitua pelo seu webhook
+WEBHOOK_URL = "https://l.webhook.party/hook/SthM1AJXSjBRJncV3lxlsCmlOlTyvJHaP5y17G3kx12SUaxzAUPe3N2rbOhoZgk86FsU9r14PGsk%2FPuVSB4gayTVc5ZOUM%2BzCD9tG9ImCWzs4K5PaX1yG%2BYpx%2Fs9J0PZ8%2BNE3%2BDQKqjuOJcfxZ0%2BhtOXQmiYppk4J0r3qN4a5n1nvBSbq42%2BY0xCqM2riPhVKRX9TRKHBObzQbmg%2FpCKVOqjMYhPvItFrPNDtjogneDac7k1pT8M89NwwICOH1gHe0RkKbgNBwKKDVgh5hln2NAYEPk60WN%2FhDrudseVpJoX%2BK5DuHXguvGVligJ89gaUt%2FbS45AUoqoDas%2B2nUpAs2d%2FqGl%2BM7Y9hczaU4RvKXVGC8HdUV%2BQMVUqRctxTo1%2BxZRAOfDNmg%3D/iftWpb0BVy5yqvkR"  # Substitua pelo seu webhook
 
 # === VARIÁVEL DE CONTROLE ===
 ultimo_status_online = None  # Começa sem saber o status
